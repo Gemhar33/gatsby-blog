@@ -46,6 +46,10 @@ export const Container = styled.article`
     height: 1rem;
     padding: 0;
   }
+
+  img {
+    max-width: 100%;
+  }
 `;
 
 export const Header = styled.header`
