@@ -1,3 +1,8 @@
+---
+title: 'Command Line Essentials'
+date: '2020-03-12T22:12:03.284Z'
+---
+
 # Command Line Essentials
 
 
